@@ -1,1 +1,1 @@
-# azure-cicd-tutorial-20250812
+# 20250812-azure-cicd-tutorial
